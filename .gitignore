@@ -1,0 +1,6 @@
+venv/
+__pychache__/
+*.pyc
+.ipynb-checkpoints/
+hello.txt
+downloaded.txt
